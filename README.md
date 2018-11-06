@@ -1,0 +1,2 @@
+# Top_page_adding_PatentNumber
+トップページの、資格スクエアとはの部分の特許部分に特許番号を追加する。
